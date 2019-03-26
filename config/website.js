@@ -10,8 +10,8 @@ module.exports = {
   siteUrl        : 'https://rhutasel.dev',              // Domain of your site. No trailing slash!
   siteLanguage   : 'en',                                // Language Tag on <html> element
   siteLogo       : '/logo.png',                         // Used for SEO and manifest
-  siteDescription: 'Logan Rhutasel Personal Portfolio,
-  author: 'LekoArts',   // Author for schema.org JSONLD
+  siteDescription: 'Logan Rhutasel Personal Portfolio'
+  //author: 'LekoArts',   // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   //userTwitter      : '@cara',           // Twitter Username
