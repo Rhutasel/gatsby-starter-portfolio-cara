@@ -103,27 +103,22 @@ const Index = () => (
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="John Doe" />
+          <Avatar src={} alt="John Doe" />
           <AboutSub>
-            The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-            Emoji into my speech to better express myself. Winky face.
+            I’m a Web Designer and Web Developer from Freeburg, Illinois.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-          every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-          make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The kids
-          want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that all
-          right?
+          I have a passion for taking ideas and forming them into a visually beautiful design. Another passion I have is in constructing efficient code. Creating websites from lines of polished code is a wonderful feeling, allowing others to see the work you put into something graphically on the design side as well as development. I enjoy using my skills to spread information in a dynamic and creative way. When I’m not designing or coding you can find me spending time with the ones I love, or getting into some intense table top games like talisman or Dungeons and Dragons!
         </AboutDesc>
       </About>
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            Say <a href="mailto:loganrhutasel@gmail.com">Hi</a> or find me on other platforms:{' '}
+            <a href="https://dribbble.com/SoloDoloed">Dribbble</a> &{' '}
+            <a href="https://www.instagram.com/rhutasel/">Instagram</a>
           </ContactText>
         </Inner>
         <Footer>
