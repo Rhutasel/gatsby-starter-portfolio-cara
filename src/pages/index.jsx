@@ -103,7 +103,7 @@ const Index = () => (
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="John Doe" />
+          <Avatar src={avatar} alt="Logan Rhutasel" />
           <AboutSub>
             I’m a Web Designer and Web Developer from Freeburg, Illinois.
           </AboutSub>
