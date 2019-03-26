@@ -15,9 +15,9 @@ module.exports = {
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   //userTwitter      : '@cara',           // Twitter Username
-  ogSiteName       : 'Logan Rhutasel',   // Facebook Site Name
-  ogLanguage       : 'en_US',            // Facebook Language
-  googleAnalyticsID: 'UA-47519312-5',
+  //ogSiteName       : 'Logan Rhutasel',   // Facebook Site Name
+  //ogLanguage       : 'en_US',            // Facebook Language
+  //googleAnalyticsID: 'UA-47519312-5',
 
   // Manifest and Progress color
   themeColor     : tailwind.colors.orange,
